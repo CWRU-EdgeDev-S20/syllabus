@@ -13,7 +13,7 @@ Recommended preparation: C, Python, and Verilog programming experience. Prereq: 
 
 ### Text Book
 
-A textbook for the course will not be required. 
+A textbook for the course will not be required, rather online reading materials will be assigned and/or suggested.
 
 Lab assignment guides include necessary documentation to complete the project designs and provide supplemental reading links to the ***[Safari Books Online](https://learning.oreilly.com/home/)*** service, which is provided free for all CWRU students ([KSL Link](https://safarijv.auth0.com/authorize?client_id=UtNi1m1IRXgzYFIwZrhSxell9EDRaL2v&response_type=code&redirect_uri=https%3A%2F%2Flearning.oreilly.com%2Fcomplete%2Fauth0%2Doauth2%2F&state=/home/&connection=case-western-reserve-university)). 
 
